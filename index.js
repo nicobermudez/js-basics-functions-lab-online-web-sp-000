@@ -13,5 +13,5 @@ function distanceFromHqInFeet(blockNumber) {
 }
 
 function distanceTravelledInFeet(start, destination) {
-  return distanceFromHqInFeet(feetNumber) / 12;
+  if(start < destination) 
 }
