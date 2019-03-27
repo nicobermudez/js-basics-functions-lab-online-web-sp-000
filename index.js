@@ -13,5 +13,5 @@ function distanceFromHqInFeet(blockNumber) {
 }
 
 function distanceTravelledInFeet(feetNumber) {
-  return distanceFromHqInFeet()
+  return distanceFromHqInFeet(feetNumber)
 }
