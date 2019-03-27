@@ -2,6 +2,6 @@
 
 function distanceFromHqInBlocks(blockNumber) {
   if (blockNumber > 42) {
-    
-  };
+
+  }
 }
