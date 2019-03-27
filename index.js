@@ -21,8 +21,8 @@ function distanceTravelledInFeet(start, destination) {
 }
 function calculatesFarePrice(start, destination) {
   if(distanceTravelledInFeet(start, destination) < 2000) {
-    
+
   } elif(distanceTravelledInFeet(start, destination) < 2000) {
-    
+
   }
 }
